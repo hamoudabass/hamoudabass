@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hamoud+Abass!;" />
 </h1>
 
-### A young assajog passionate about coding it's just simple ! 
+### A Young Assajog passionate about coding! 
 
 
 ## 📊 GitHub Summary
