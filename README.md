@@ -18,14 +18,14 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,sqlite,html,css" /> <br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" /> <br>
     <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,sublime,dotnet,notion,linkedin" />
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,sublime,notion,linkedin" />
 </p>
 
 <hr>
 
-- 🌱 I’m currently learning **[Python](https://www.w3schools.com/python/default.asp)**
+- 🌱 I’m currently learning **[Python](https://www.w3schools.com/python/default.asp),[Html](https://www.w3schools.com/html/default.asp),**
 - 💬 Ask me about or anything [here](https://github.com/{hamoudabass}/{hamoudabbas}/issues)**
 
 <br>
