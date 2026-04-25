@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/YoungAssajog" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/YoungAssajog target="_blank" />
+    <img src="https://img.shields.io/twitter/follow/YoungAssajog/>
   </a>
   
 </div>
