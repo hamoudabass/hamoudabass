@@ -20,14 +20,14 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,pycharm,vscode,sublime,vim,notion,linkedin" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,lua" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,mint,windows,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,pycharm,vscode,sublime,vim,neovim,sqlite,notion,linkedin,gmail,instagram" />
 </p>
 
 <hr>
 
-- 🌱 I’m currently learning **[Python](https://www.w3schools.com/python/default.asp),[Html](https://www.w3schools.com/html/default.asp),**
+- 🌱 I’m currently learning Python and Web developpement !
 - 💬 Ask me about or anything [here](https://github.com/{hamoudabass}/{hamoudabbas}/issues)**
 
 <br>
