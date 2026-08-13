@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,lua" /> <br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,mint,windows,bash,powershell" />
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,pycharm,vscode,sublime,vim,neovim,sqlite,notion,linkedin,gmail,instagram" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,pycharm,vscode,sublime,vim,neovim,sqlite,notion,linkedin,gmail,instagram,obsidian" />
 </p>
 
 <hr>
